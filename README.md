@@ -1,1 +1,1 @@
-Aplicación de consola, gestor de tareas. Permite crear, editar y eliminar tareas con plazos y tareas comunes. Se puede ver la lista completa y marcar las tareas completadas. Todos los cambios se guardan en un archivo de texto.
+Aplicación de consola, gestor de tareas. Permite crear, editar y eliminar tareas con plazos y tareas comunes. Se puede ver la lista completa y marcar las tareas completadas. Todos los cambios se guardan en un archivo de texto. 
