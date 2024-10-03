@@ -1,0 +1,5 @@
+Crear un proyecto;Enviar un proyecto en Java;false;1
+Comprobar correo;Responder a correos importantes;false;2
+Llamar a un colega;Discutir el proyecto;true;3
+Presentar informe;Informe financiero completo;false;2;1696123200000
+Tarea Nueva;Description nueva;false;1;1734231600000
